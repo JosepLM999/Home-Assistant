@@ -1,4 +1,4 @@
-# Home-Assistant
+# Home-Assistant configuration
 Configuración e instalación de HA <br>
 Mis Notas
 
