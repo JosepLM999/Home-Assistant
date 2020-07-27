@@ -23,3 +23,6 @@ Requiere modificar firmware de la cámara: https://github.com/TheCrypt0/yi-hack-
 
 # Configuración en HA del RTSP para poder trabajar con las cámaras anteriores
 https://github.com/TheCrypt0/yi-hack-v4/wiki/Home-Assistant-RTSP-configuration
+
+# Instalación Docker
+https://ugeek.github.io/blog/post/2019-02-03-instalar-docker-en-raspberry-pi-con-raspbian.html
