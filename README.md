@@ -26,3 +26,8 @@ https://github.com/TheCrypt0/yi-hack-v4/wiki/Home-Assistant-RTSP-configuration
 
 # Instalación Docker
 https://ugeek.github.io/blog/post/2019-02-03-instalar-docker-en-raspberry-pi-con-raspbian.html
+
+ run:
+
+ha core update --version=0.XX.X
+Run
